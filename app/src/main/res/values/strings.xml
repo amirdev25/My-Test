@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Test</string>
+    <string name="text1">Dasturlash sohasiga oid bir nechta savollarga javob berib bilimingizni sinab ko\'ring!</string>
+    <string name="savol1">c++ dasturlash tiliga qachon va kim tomonidan asos solingan?</string>
+    <string name="dialog_text1">Test savollarini ishlashni boshlaganingizdan so\'ng sizga har bir savol uchun 30 soniya vaqt va har bir to\'g\'ri javob uchun 5 ball beriladi! Testni boshlang va bilimingizni sinab ko\'ring!</string>
+</resources>
